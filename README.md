@@ -3,7 +3,7 @@
 
 ## Participant Names  
 - **Participant 1:** [Jean Pierre NIYONGABO]
-- **Participant 2:** [Irenee Gisubizo Dusingizimana]  
+- **Participant 2:** [Irenee Gisubizo DUSINGIZIMANA]  
 
 ## Description  
 This assignment involves debugging and completing the provided starter code to compute the sum of products for two matrices.  
