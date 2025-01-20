@@ -19,7 +19,7 @@ for i in range(len(Prices)):
     for j in range(len(Prices[0])):
         # COMPLETE THE MISSING LOGIC HERE
               row_sum += Prices[i][j] * Array2[j]  # Multiply cost by quantity and add to sum
-        pass
+              Ans.append(row_sum)  # Append the total for the current row
 
 
 print(Ans)
