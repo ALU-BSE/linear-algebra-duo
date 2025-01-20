@@ -3,7 +3,7 @@
 
 ## Participant Names  
 - **Participant 1:** [Name of Student 1]  
-- **Participant 2:** [Name of Student 2]  
+- **Participant 2:** [Irenee Gisubizo Dusingizimana]  
 
 ## Description  
 This assignment involves debugging and completing the provided starter code to compute the sum of products for two matrices.  
